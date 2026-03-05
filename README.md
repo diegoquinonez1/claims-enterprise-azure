@@ -44,5 +44,8 @@ Ver `docs/adrs/` (Architecture Decision Records).
 ## Demo para entrevistas
 - Guion, Q&A y casos: `docs/interview/`
 
-## Licencia
-MIT
+## Licencia / Uso
+Copyright (c) 2026 Diego Quiñonez. Todos los derechos reservados.
+
+Este repositorio es público únicamente para fines de revisión y evaluación.  
+No se otorga permiso para usar, copiar, modificar o redistribuir este contenido sin autorización escrita del autor.
